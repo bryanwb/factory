@@ -1,0 +1,6 @@
+Copyright Bryan W. Berry 2011
+Apache 2.0 License
+
+factory is a simple wrapper that takes in
+a file full of hostnames and then runs the subsequent 
+fabric for each in a separate process 
